@@ -1,5 +1,5 @@
 # LQR-Inverted-Pendulum-on-Cart
-Simulation of an inverted pendulum on a cart system with LQR using MATLAB and Simulink.
+Simulation of an inverted pendulum on a cart system with a Linear Quadratic Regulator (LQR) controller using MATLAB and Simulink.
 
 HOW TO USE
 ----------
